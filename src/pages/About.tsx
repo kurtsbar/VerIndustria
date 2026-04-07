@@ -38,7 +38,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img 
-                src="/Imagens/logoResumidoBranco-2.png" 
+                src="/Imagens/LogoVerIndustrialBranco.png" 
                 alt="Architecture and Structure" 
                 className="w-full  object-cover  opacity-80 "
               />
